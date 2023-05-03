@@ -1,0 +1,13 @@
+D:\university\sem6\dska\FileActionsWithPermissions\build\bin\Debug\ZipFileProcess.exe
+D:\university\sem6\dska\FileActionsWithPermissions\build\bin\Debug\ZipFileProcess.deps.json
+D:\university\sem6\dska\FileActionsWithPermissions\build\bin\Debug\ZipFileProcess.runtimeconfig.json
+D:\university\sem6\dska\FileActionsWithPermissions\build\bin\Debug\ZipFileProcess.dll
+D:\university\sem6\dska\FileActionsWithPermissions\ZipFileProcess\obj\Debug\ZipFileProcess.csproj.AssemblyReference.cache
+D:\university\sem6\dska\FileActionsWithPermissions\ZipFileProcess\obj\Debug\ZipFileProcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\sem6\dska\FileActionsWithPermissions\ZipFileProcess\obj\Debug\ZipFileProcess.AssemblyInfoInputs.cache
+D:\university\sem6\dska\FileActionsWithPermissions\ZipFileProcess\obj\Debug\ZipFileProcess.AssemblyInfo.cs
+D:\university\sem6\dska\FileActionsWithPermissions\ZipFileProcess\obj\Debug\ZipFileProcess.csproj.CoreCompileInputs.cache
+D:\university\sem6\dska\FileActionsWithPermissions\ZipFileProcess\obj\Debug\ZipFileProcess.dll
+D:\university\sem6\dska\FileActionsWithPermissions\ZipFileProcess\obj\Debug\refint\ZipFileProcess.dll
+D:\university\sem6\dska\FileActionsWithPermissions\ZipFileProcess\obj\Debug\ZipFileProcess.genruntimeconfig.cache
+D:\university\sem6\dska\FileActionsWithPermissions\ZipFileProcess\obj\Debug\ref\ZipFileProcess.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "m/LO/JagcJN/CmN4nwke+OaNw98XYZ5deslhtwM3bBrTqZFy0v1lHKFIx1xBJSVgesTTHBfm72148bVY/Q31OA==",
+  "success": true,
+  "projectFilePath": "D:\\university\\sem6\\dska\\FileActionsWithPermissions\\ToPNGConversionProcess\\ProcessPngConverting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drozd\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\drozd\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

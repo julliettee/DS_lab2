@@ -1,0 +1,15 @@
+D:\university\sem6\dska\FileActionsWithPermissions\build\bin\Debug\HashFileProcess.exe
+D:\university\sem6\dska\FileActionsWithPermissions\build\bin\Debug\HashFileProcess.deps.json
+D:\university\sem6\dska\FileActionsWithPermissions\build\bin\Debug\HashFileProcess.runtimeconfig.json
+D:\university\sem6\dska\FileActionsWithPermissions\build\bin\Debug\HashFileProcess.dll
+D:\university\sem6\dska\FileActionsWithPermissions\build\bin\Debug\HashFileProcess.pdb
+D:\university\sem6\dska\FileActionsWithPermissions\HashFileProcess\obj\Debug\HashFileProcess.csproj.AssemblyReference.cache
+D:\university\sem6\dska\FileActionsWithPermissions\HashFileProcess\obj\Debug\HashFileProcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\sem6\dska\FileActionsWithPermissions\HashFileProcess\obj\Debug\HashFileProcess.AssemblyInfoInputs.cache
+D:\university\sem6\dska\FileActionsWithPermissions\HashFileProcess\obj\Debug\HashFileProcess.AssemblyInfo.cs
+D:\university\sem6\dska\FileActionsWithPermissions\HashFileProcess\obj\Debug\HashFileProcess.csproj.CoreCompileInputs.cache
+D:\university\sem6\dska\FileActionsWithPermissions\HashFileProcess\obj\Debug\HashFileProcess.dll
+D:\university\sem6\dska\FileActionsWithPermissions\HashFileProcess\obj\Debug\refint\HashFileProcess.dll
+D:\university\sem6\dska\FileActionsWithPermissions\HashFileProcess\obj\Debug\HashFileProcess.pdb
+D:\university\sem6\dska\FileActionsWithPermissions\HashFileProcess\obj\Debug\HashFileProcess.genruntimeconfig.cache
+D:\university\sem6\dska\FileActionsWithPermissions\HashFileProcess\obj\Debug\ref\HashFileProcess.dll

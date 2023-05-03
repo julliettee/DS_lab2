@@ -1,0 +1,16 @@
+D:\university\sem6\dska\FileActionsWithPermissions\build\bin\Debug\ProcessPngConverting.exe
+D:\university\sem6\dska\FileActionsWithPermissions\build\bin\Debug\ProcessPngConverting.deps.json
+D:\university\sem6\dska\FileActionsWithPermissions\build\bin\Debug\ProcessPngConverting.runtimeconfig.json
+D:\university\sem6\dska\FileActionsWithPermissions\build\bin\Debug\ProcessPngConverting.dll
+D:\university\sem6\dska\FileActionsWithPermissions\build\bin\Debug\ProcessPngConverting.pdb
+D:\university\sem6\dska\FileActionsWithPermissions\ToPNGConversionProcess\obj\Debug\ProcessPngConverting.csproj.AssemblyReference.cache
+D:\university\sem6\dska\FileActionsWithPermissions\ToPNGConversionProcess\obj\Debug\ProcessPngConverting.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\sem6\dska\FileActionsWithPermissions\ToPNGConversionProcess\obj\Debug\ProcessPngConverting.AssemblyInfoInputs.cache
+D:\university\sem6\dska\FileActionsWithPermissions\ToPNGConversionProcess\obj\Debug\ProcessPngConverting.AssemblyInfo.cs
+D:\university\sem6\dska\FileActionsWithPermissions\ToPNGConversionProcess\obj\Debug\ProcessPngConverting.csproj.CoreCompileInputs.cache
+D:\university\sem6\dska\FileActionsWithPermissions\ToPNGConversionProcess\obj\Debug\ProcessPngConverting.csproj.CopyComplete
+D:\university\sem6\dska\FileActionsWithPermissions\ToPNGConversionProcess\obj\Debug\ProcessPngConverting.dll
+D:\university\sem6\dska\FileActionsWithPermissions\ToPNGConversionProcess\obj\Debug\refint\ProcessPngConverting.dll
+D:\university\sem6\dska\FileActionsWithPermissions\ToPNGConversionProcess\obj\Debug\ProcessPngConverting.pdb
+D:\university\sem6\dska\FileActionsWithPermissions\ToPNGConversionProcess\obj\Debug\ProcessPngConverting.genruntimeconfig.cache
+D:\university\sem6\dska\FileActionsWithPermissions\ToPNGConversionProcess\obj\Debug\ref\ProcessPngConverting.dll
